@@ -26,7 +26,7 @@ int LoopAverage(int N){
             }
         }
     }
-    printf("16 year or height 188 hah\ : %d  \n",groupone);
+    printf("16 year or height 188 : %d  \n",groupone);
     printf("15 year or height 200 : %d  \n",grouptwo); 
     printf("Average age : %d \n",Average=Average/N);
     printf("Average height : %d ",Averageheigt=Averageheigt/N);
